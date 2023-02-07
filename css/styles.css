@@ -45,8 +45,11 @@ img {
     margin-right: auto;
     margin-top: 250px;
 
+
+
 }
 
 :hover.mainboks{
     background-color: crimson;
+    border-radius: 50%;
 }
